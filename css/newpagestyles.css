@@ -1,0 +1,40 @@
+.common{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    height: 100px;
+    background-color: aliceblue;
+    color: navy;
+    line-height: 100px;
+}
+.mainbody{
+    background-color: rgb(255, 255, 255);
+    right: 5px;
+    left: 5px;
+}
+.footer{
+    height: 25px;
+    font-size: 10px;    
+    padding-top: 15px;
+    background-color: aliceblue;
+    color: navy;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    position: fixed;
+}
+ul.myul {
+    display: inline-block;
+    text-align: center;
+    font-weight: lighter;
+}
+ol.myol {
+    display: contents;
+    text-align: center;
+    font-weight: bold;
+}
+.nav{
+    text-decoration: underline;
+    color: blue;
+}
